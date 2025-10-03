@@ -1,40 +1,54 @@
-# 👋 Hi, I'm Soumik Paul
+# 👋 Hi, I'm [Your Name]  
 
-💡 **Aspiring Data Analyst | Problem Solver | Visualization Enthusiast**  
+💡 **Data Analyst | Manual & Automation Tester | Problem Solver**  
 
 Welcome to my GitHub!  
-I’m passionate about turning raw data into meaningful insights using **SQL, Python, Excel, and Power BI/Tableau**.  
-I enjoy solving business problems with data and building dashboards that tell a story 📊.  
+I have a **dual skillset** in **Data Analytics** and **Software Testing**, allowing me to not only analyze business problems using data but also ensure software quality with manual and automated testing.  
 
 ---
 
 ## 🔧 Skills & Tools
 
+### 📊 Data Analytics
 - 🐍 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- 🗄️ **Databases:** SQL (MySQL, SQL Server)  
-- 📊 **Visualization:** Power BI, Excel  
-- 📂 **Other Tools:** Git,Jira,Selenium
+- 🗄️ **Databases:** SQL (MySQL, PostgreSQL)  
+- 📊 **Visualization:** Power BI, Tableau, Excel  
+- 📂 **Other Tools:** Git, Jupyter Notebook  
+
+### 🧪 Software Testing
+- ✅ **Manual Testing:** Test case design, test execution, defect reporting  
+- 🤖 **Automation Testing:** Selenium WebDriver, TestNG, PyTest  
+- 🛠️ **Tools:** JIRA, Postman (API Testing), GitHub, VS Code  
+- 🔍 **Testing Types:** Functional, Regression, Smoke, Sanity, API Testing  
 
 ---
 
 ## 📌 Featured Projects
 
-### 1️⃣ Loan Data Analysis  
-📂 [Loan Data Project Repo](#)  
-- Cleaned and transformed raw loan data.  
-- Built **visual dashboards** to identify default risks.  
-- Performed **exploratory data analysis (EDA)** and generated business insights.  
+### 🔹 Data Analytics Projects
+1. **Vendor Performance Analysis**  
+   - Built an **end-to-end analysis pipeline** (SQL + Python + Power BI).  
+   - Identified **underperforming vendors** and **optimized inventory strategies**.  
+   📂 [Repo Link](#)  
 
-### 2️⃣ Sales Dashboard (Power BI)  
-📂 [Sales Dashboard Repo](#)  
-- Designed an **interactive Power BI dashboard**.  
-- Tracked revenue, profit margins, and regional performance.  
-- Added filters & slicers for dynamic exploration.  
+2. **Sales Dashboard (Power BI)**  
+   - Designed an **interactive dashboard** with revenue, profit, and region-wise performance.  
+   📂 [Repo Link](#)  
 
-### 3️⃣ Customer Segmentation (Python + KMeans)  
-📂 [Customer Segmentation Repo](#)  
-- Applied **KMeans clustering** to group customers.  
-- Helped identify marketing strategies for different customer groups.  
+3. **Customer Segmentation (Python + KMeans)**  
+   - Applied **clustering techniques** to segment customers for targeted marketing.  
+   📂 [Repo Link](#)  
+
+### 🔹 Software Testing Projects
+1. **E-commerce Website Testing**  
+   - Wrote & executed **manual test cases**.  
+   - Logged defects using **JIRA** and prepared test reports.  
+   📂 [Repo Link](#)  
+
+2. **Automation Testing Framework (Selenium + TestNG)**  
+   - Built a **data-driven test automation framework**.  
+   - Automated regression test cases for faster releases.  
+   📂 [Repo Link](#)  
 
 ---
 
@@ -49,7 +63,6 @@ I enjoy solving business problems with data and building dashboards that tell a 
 
 🌐 [Portfolio Website](#)  
 💼 [LinkedIn](#)  
-🐦 [Twitter](#)  
 📧 Email: your.email@example.com  
 
 ---
