@@ -35,7 +35,7 @@ With this **dual skillset**, I bridge the gap between **software quality assuran
    This project analyses **bank loan data** to evaluate loan performance, identify credit risk, and provide insights into customer behaviour.  
 The goal is to create an **interactive Power BI dashboard** for **data-driven loan approval and portfolio decisions**.  
 
-   📂 [Repo Link](#)  
+   📂 [[Bank Loan Data Analysis](https://github.com/soumikpaul8/Bank-Loan-Data-SQL-PowerBI)] 
 
 
 
