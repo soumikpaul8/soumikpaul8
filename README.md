@@ -45,8 +45,7 @@ The goal is to create an **interactive Power BI dashboard** for **data-driven lo
 
 ## 📫 Connect With Me  
 
-🌐 [Portfolio Website](#)  
-💼 [LinkedIn](#)  
+
 📧 Email: Soumikpaul8@gmail.com  
 
 ---
