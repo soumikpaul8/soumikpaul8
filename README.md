@@ -3,7 +3,6 @@
 💡 **Aspiring Data Analyst | Manual & Automation Tester | Problem Solver**  
 
 Welcome to my GitHub!  
-**Aspiring Data Analyst | Former QA Tester | Problem Solver**  
 
 ### 🚀 Career Transition  
 
