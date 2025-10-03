@@ -5,9 +5,12 @@
 Welcome to my GitHub!  
 **Aspiring Data Analyst | Former QA Tester | Problem Solver**  
 
-I’m transitioning my career from Software Testing to Data Analytics, where I apply the same attention to detail, critical thinking, and problem-solving mindset that I developed in manual and automation testing. 
-With this dual skillset, I bridge the gap between software quality assurance and data-driven decision-making, delivering insights that are both reliable and impactful.
----
+### 🚀 Career Transition  
+
+I’m transitioning my career from **Software Testing** to **Data Analytics**, where I apply the same **attention to detail, critical thinking, and problem-solving mindset** that I developed in *manual* and *automation testing*.  
+
+With this **dual skillset**, I bridge the gap between **software quality assurance** and **data-driven decision-making**, delivering insights that are both **reliable** and **impactful**.  
+
 
 ## 🔧 Skills & Tools
 
