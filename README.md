@@ -30,29 +30,16 @@ With this **dual skillset**, I bridge the gap between **software quality assuran
 ## 📌 Featured Projects
 
 ### 🔹 Data Analytics Projects
-1. **Vendor Performance Analysis**  
-   - Built an **end-to-end analysis pipeline** (SQL + Python + Power BI).  
-   - Identified **underperforming vendors** and **optimized inventory strategies**.  
+1. **Bank Loan Data Analysis**  
+   - Built an **end-to-end project using** (SQL + Power BI).  
+   This project analyses **bank loan data** to evaluate loan performance, identify credit risk, and provide insights into customer behaviour.  
+The goal is to create an **interactive Power BI dashboard** for **data-driven loan approval and portfolio decisions**.  
+
    📂 [Repo Link](#)  
 
-2. **Sales Dashboard (Power BI)**  
-   - Designed an **interactive dashboard** with revenue, profit, and region-wise performance.  
-   📂 [Repo Link](#)  
 
-3. **Customer Segmentation (Python + KMeans)**  
-   - Applied **clustering techniques** to segment customers for targeted marketing.  
-   📂 [Repo Link](#)  
 
-### 🔹 Software Testing Projects
-1. **E-commerce Website Testing**  
-   - Wrote & executed **manual test cases**.  
-   - Logged defects using **JIRA** and prepared test reports.  
-   📂 [Repo Link](#)  
 
-2. **Automation Testing Framework (Selenium + TestNG)**  
-   - Built a **data-driven test automation framework**.  
-   - Automated regression test cases for faster releases.  
-   📂 [Repo Link](#)  
 
 ---
 
