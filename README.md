@@ -57,18 +57,11 @@ With this **dual skillset**, I bridge the gap between **software quality assuran
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect With Me  
 
 🌐 [Portfolio Website](#)  
 💼 [LinkedIn](#)  
-📧 Email: your.email@example.com  
+📧 Email: Soumikpaul8@gmail.com  
 
 ---
 
