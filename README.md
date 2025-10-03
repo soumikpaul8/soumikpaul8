@@ -3,8 +3,10 @@
 💡 **Aspiring Data Analyst | Manual & Automation Tester | Problem Solver**  
 
 Welcome to my GitHub!  
-I have a **dual skillset** in **Data Analytics** and **Software Testing**, allowing me to not only analyze business problems using data but also ensure software quality with manual and automated testing.  
+**Aspiring Data Analyst | Former QA Tester | Problem Solver**  
 
+I’m transitioning my career from Software Testing to Data Analytics, where I apply the same attention to detail, critical thinking, and problem-solving mindset that I developed in manual and automation testing. 
+With this dual skillset, I bridge the gap between software quality assurance and data-driven decision-making, delivering insights that are both reliable and impactful.
 ---
 
 ## 🔧 Skills & Tools
