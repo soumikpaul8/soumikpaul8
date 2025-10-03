@@ -1,6 +1,6 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Soumik Paul 
 
-💡 **Data Analyst | Manual & Automation Tester | Problem Solver**  
+💡 **Aspiring Data Analyst | Manual & Automation Tester | Problem Solver**  
 
 Welcome to my GitHub!  
 I have a **dual skillset** in **Data Analytics** and **Software Testing**, allowing me to not only analyze business problems using data but also ensure software quality with manual and automated testing.  
@@ -11,15 +11,15 @@ I have a **dual skillset** in **Data Analytics** and **Software Testing**, allow
 
 ### 📊 Data Analytics
 - 🐍 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- 🗄️ **Databases:** SQL (MySQL, PostgreSQL)  
-- 📊 **Visualization:** Power BI, Tableau, Excel  
-- 📂 **Other Tools:** Git, Jupyter Notebook  
+- 🗄️ **Databases:** SQL (MySQL, SQL Server)  
+- 📊 **Visualization:** Power BI , Excel  
+- 📂 **Other Tools:** Git, Jupyter Notebook,Jira,MS Office  
 
 ### 🧪 Software Testing
 - ✅ **Manual Testing:** Test case design, test execution, defect reporting  
-- 🤖 **Automation Testing:** Selenium WebDriver, TestNG, PyTest  
+- 🤖 **Automation Testing:** Selenium WebDriver  
 - 🛠️ **Tools:** JIRA, Postman (API Testing), GitHub, VS Code  
-- 🔍 **Testing Types:** Functional, Regression, Smoke, Sanity, API Testing  
+- 🔍 **Testing Types:** Functional, Regression, Smoke, Sanity, API Testing,Data Base Testing 
 
 ---
 
